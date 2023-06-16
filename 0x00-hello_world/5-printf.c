@@ -1,4 +1,4 @@
-#include<studio.sh>
+#include<stdio.h>
 /**
  * main -Entry point
  *
